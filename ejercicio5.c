@@ -10,7 +10,7 @@ int main ()
     printf("\tPromedio de calificaciones\n");
     for (int indice = 0 ; indice < enteroNumAlumnos ; indice++)
     {
-        printf("\nIngrese la calificación del alumn %d\n", indice+1);
+        printf("\nIngrese la calificación del alumno %d\n", indice+1);
         scanf("%f",&realCalif);
         realPromedio += realCalif;
     }
