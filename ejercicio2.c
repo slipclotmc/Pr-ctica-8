@@ -1,5 +1,5 @@
 /*Velázquez Domínguez Ricardo 
-Práctica 8 - ejercicio 1*/
+Práctica 8 - ejercicio 2*/
 
 #include <stdio.h>
 int main()
